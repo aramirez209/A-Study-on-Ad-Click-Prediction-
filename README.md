@@ -3,11 +3,11 @@ this study provides valuable insights into the performance of machine learning m
 
 Usage:
 
-clone the repository (https://github.com/aramirez209/A-Study-on-Ad-Click-Prediction)
+  1. clone the repository (https://github.com/aramirez209/A-Study-on-Ad-Click-Prediction)
 
-install required dependencies pip install -r requirements.txt
+  2. install required dependencies pip install -r requirements.txt
 
-Run the Python System
+  3. Run the Python System
 
 Contributing: Analya Ramirez
 
